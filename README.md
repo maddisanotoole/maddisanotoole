@@ -1,4 +1,4 @@
-<h1>Hi I'm Maddi</h1>
+<h1>Hi, I'm Maddi</h1>
 Full-stack developer focused on building real-world tools, including web apps, android apps, automation systems, and custom interfaces.
 
 <h2>Currently Working On</h2>
