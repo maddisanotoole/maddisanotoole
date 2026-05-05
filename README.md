@@ -1,16 +1,15 @@
-[![Top Langs](https://github-readme-stats-nine-wine-88.vercel.app/api/top-langs/?username=maddisanotoole)](https://github.com/anuraghazra/github-readme-stats)
+<h1>Hi I'm Maddi</h1>
+Full-stack developer focused on building real-world tools, including web apps, android apps, automation systems, and custom interfaces.
 
-<!--
-**maddisanotoole/maddisanotoole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Currently Working On</h2>
+<ul>
+  <li><b>Custom Car Infotainment System</b>: replacing a stock console with a custom-built interface and software system</li>
+  <li><b>Book Recommendation Platform</b>: personalised recommendations and discovery features</li>
+  <li><b>Self-Hosted AI Experiments</b>: running and integrating local models into personal tools</li>
+  <li><b>Home Server</b>: ongoing upgrades for automation, hosting, and reliability</li>
+  <li><b><a href="https://github.com/maddisanotoole/git-hook-examples/">Git hook examples</a></b>: ongoing repo of practical Git hook automations</li>
+</ul>
 
-Here are some ideas to get you started:
+<h2>Tech Stack</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
