@@ -7,7 +7,7 @@ Full-stack developer focused on building real-world tools, including web apps, a
   <li><b>Book Recommendation Platform</b>: personalised recommendations and discovery features</li>
   <li><b>Self-Hosted AI Experiments</b>: running and integrating local models into personal tools</li>
   <li><b>Home Server</b>: ongoing upgrades for automation, hosting, and reliability</li>
-  <li><b><a href="https://github.com/maddisanotoole/git-hook-examples/">Git hook examples</a></b>: ongoing repo of practical Git hook automations</li>
+  <li><b><a href="https://github.com/maddisanotoole/git-hook-examples/">Git Hook Examples</a></b>: ongoing repo of practical Git hook automations</li>
 </ul>
 
 <h2>Tech Stack</h2>
