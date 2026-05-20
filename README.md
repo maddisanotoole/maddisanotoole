@@ -4,7 +4,6 @@ Full-stack developer focused on building real-world tools, including web apps, a
 <h2>Currently Working On</h2>
 <ul>
   <li><a href="https://github.com/maddisanotoole/custom-car-infotainment-system">Custom Car Infotainment System</a>: replacing a stock console with a custom-built interface and software system</li>
-  <li><b>Book Recommendation Platform</b>: personalised recommendations and discovery features</li>
   <li><b>Self-Hosted AI Experiments</b>: running and integrating local models into personal tools</li>
   <li><b>Home Server</b>: ongoing upgrades for automation, hosting, and reliability</li>
   <li><a href="https://github.com/maddisanotoole/git-hook-examples/">Git Hook Examples</a>: ongoing repo of practical Git hook automations</li>
