@@ -11,7 +11,7 @@ Full-stack developer focused on building real-world tools, including web apps, a
 
 <H2>Featured Projects</H2>
 <ul>    
-  <li><a href="https://github.com/maddisanotoole/Velocidice">VelociDice</a>: browser-based Farkle-style dice game deployed with Vercel. <a href="https://velocidice.vercel.app/">Play a game in your browser</a></li>
+  <li><a href="https://github.com/maddisanotoole/Velocidice">VelociDice</a>: browser-based Farkle-style dice game deployed with Vercel. <a href="https://velocidice.vercel.app/" target="_blank">Play a game in your browser</a></li>
 
 </ul>
 
