@@ -6,13 +6,13 @@ Full-stack developer focused on building real-world tools, including web apps, a
   <li><a href="https://github.com/maddisanotoole/custom-car-infotainment-system">Custom Car Infotainment System</a>: replacing a stock console with a custom-built interface and software system</li>
   <li><b>Self-Hosted AI Experiments</b>: running and integrating local models into personal tools, including <a href="https://github.com/maddisanotoole/ai_benchmarker">AI Model Benchmarker</a></li>
   <li><b>Home Server</b>: ongoing upgrades for automation, hosting, and reliability</li>
-  <li><a href="https://github.com/maddisanotoole/git-hook-examples/">Git Hook Examples</a>: ongoing repo of practical Git hook automations</li>
 </ul>
 
 <H2>Featured Projects</H2>
 <ul>    
   <li><a href="https://github.com/maddisanotoole/Velocidice">VelociDice</a>: browser-based Farkle-style dice game deployed with Vercel. <a href="https://velocidice.vercel.app/" target="_blank">Play a game in your browser</a></li>
 
+  <li><a href="https://github.com/maddisanotoole/git-hook-examples/">Git Hook Examples</a>: ongoing repo of practical Git hook automations</li>
 </ul>
 
 <h2>Tech Stack</h2>
